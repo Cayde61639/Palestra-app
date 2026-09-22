@@ -1,0 +1,6 @@
+{
+  "name": "Gym App",
+  "description": "Progressive Web App per il tracciamento della scheda di allenamento in palestra con scanner OCR, livelli di forza 1RM personalizzati su peso e altezza, mappa muscolare 3D e timer di recupero.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
